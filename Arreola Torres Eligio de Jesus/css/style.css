@@ -1,0 +1,163 @@
+body{
+  color: #505054;
+  margin:0;
+  font-family: "Montserrat",Arial;
+}
+   .wrapper{
+  background: white;
+   }
+   .bg-naranja{
+    background: #e95644;
+   }
+     .bg-gris{
+      background: #f0f0f0;
+     }
+     .content{
+      width: 960px;
+      margin:0 auto;
+     }
+        .header{
+          height: 83px;
+          background: #e95644;
+          color: white;
+         
+         }
+.header h1{
+  background: url(style/logo.png);
+  width: 128px; 
+  height: 128px;
+  text-indent: -9999px;
+  margin: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.header .menu{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 12px ;
+  margin-left: 134px ;
+
+}
+.header .menu li{
+  display: block;
+  float: left;
+}
+.header .menu li a{
+  display: block;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+.header .menu li a:hover{
+  color:black;
+}
+.featured{
+  padding: 50px 0px;
+}
+.content .subtitulo{
+  display: block;
+  font-style: 30px;
+  font-weight: bold;
+  text-align: center;
+
+
+}
+.content .parrafo{
+  font-style: 16px;
+  text-align: center;
+}
+
+.informacion{
+  padding: 30px 0px;
+}
+.wrapper-mac{
+  position: relative;
+width: 600px;
+display: inline-block;
+  vertical-align: top;
+  min-height: 500px;
+}
+.wrapper-texto{
+  display: inline-block;
+  vertical-align: top;
+  width: 320px;
+  margin-left: 30px;
+}
+.wrapper-texto .subtitulo{
+  text-align: left;
+color: #e95644;
+}
+.wrapper-texto .parrafo{
+  text-align: justify;
+  font-size: 20px;
+  line-height: 34px;
+}
+.wrapper-mac .mac{
+  
+  width: 600px;
+
+}
+.wrapper-mac .mac-images{
+position: absolute;
+top: 31px;
+left: 25px;
+}
+.wrapper-a{
+  display: inline-block;
+}
+.wrapper-imagesu {
+  display: inline-block;
+  vertical-align: top;
+}
+.wrapper-imagesu .imagesu{
+  
+  width: 420px;
+   
+
+  
+
+}
+.wrapper-imagesu .subtitulo{
+  text-align: center;
+color: #e95644;
+}
+
+.wrapper-imagesd{
+  display: inline-block;
+  vertical-align: top;
+
+}
+.wrapper-imagesd .imagesd{
+  
+  width: 420px;
+   margin-left: 70px;
+
+  
+}
+.wrapper-imagesd .subtitulo{
+  text-align: center;
+color: #e95644;
+}
+
+
+
+
+.footer{
+  display: block;
+  height: 336px;
+  background:url(style/bg-footer.png);
+}
+
+
+
+
+
+
+
+
+
+
+
